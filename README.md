@@ -8,3 +8,7 @@ This Project will illustrate, use of a basic directory scanner functionality cre
 We will initiate this a software engineering project. 
 
 What will be added: SRS, Flow Diagram, Use Case, Test Document, End user Document.
+
+--
+License and Project Use:
+MIT
