@@ -15,9 +15,9 @@ Current Implementation Status
 - Header files: iostream, dirent.h, sys/stat.h, string, vector
 
 **Pending:**
-- Advanced filtering and file classification
-- Recursive directory traversal
-- File metadata display (size, permissions, timestamps)
+- Advanced filtering and file classification - This is a future scope, next release
+- Recursive directory traversal - This is a future scope, next release
+- File metadata display (size, permissions, timestamps) - This is a future scope, next release
 - SRS and Flow Diagram documentation
 - Use Case documentation
 - Test Document
