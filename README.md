@@ -16,6 +16,7 @@ Draw.io - for flow representation
 
 How to use/Install
 --
+Creating .deb type file for apt installation - check process
 
 License and Project Use:
 --
