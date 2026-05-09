@@ -1,14 +1,12 @@
-SRS
-
 ## Software Requirements Specification (SRS)
 
-### Project: High-Performance Linux Directory Scanner (C++)
+### Scanlin
 
 ---
 
 ## 1. Introduction
 
-The **Linux Directory Scanner** is a specialized C++ command-line utility engineered for high-speed filesystem traversal and metadata extraction. Unlike standard utilities, this project focuses on hardware-aware performance, memory efficiency, and robust error handling in complex Linux environments.
+The **Scanlin** is a specialized C++ command-line utility engineered for high-speed filesystem traversal and metadata extraction. Unlike standard utilities, this project focuses on hardware-aware performance, memory efficiency, and robust error handling in complex Linux environments.
 
 ## 2. Overall Description
 
