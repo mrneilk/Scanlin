@@ -20,7 +20,7 @@ SRS [Check out the documentation](SRS.md)
 Process Flow
 --
 
-<img src="mermaid-drawing.png" alt="Process Flow" width="200" height="400">
+<img src="mermaid-drawing.png" alt="Process Flow" width="300" height="600">
 
 How to use/Install
 --
