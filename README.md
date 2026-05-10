@@ -19,7 +19,7 @@ SRS [Check out the documentation](SRS.md)
 
 Process Flow
 --
-!(mermaid-drawing.png)
+![](mermaid-drawing.png)
 
 
 How to use/Install
