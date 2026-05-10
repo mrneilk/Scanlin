@@ -14,7 +14,7 @@ Tools and Resources
 --
 Draw.io - for flow representation 
 
-SRS [Check out the documentation](srs.md)
+SRS [Check out the documentation](SRS.md)
 --
 
 How to use/Install
