@@ -17,6 +17,10 @@ Draw.io - for flow representation
 SRS [Check out the documentation](SRS.md)
 --
 
+Process Flow
+--
+![Process FLow](mermaid-drwaing.png)
+
 How to use/Install
 --
 Creating .deb type file for apt installation - check process
