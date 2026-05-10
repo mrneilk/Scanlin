@@ -19,8 +19,8 @@ SRS [Check out the documentation](SRS.md)
 
 Process Flow
 --
-![](mermaid-drawing.png)
 
+<img src="mermaid-drawing.png" alt="Process Flow" width="200" height="400">
 
 How to use/Install
 --
