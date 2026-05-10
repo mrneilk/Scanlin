@@ -3,8 +3,9 @@
 
 // This code is a simple C++ program that lists the contents of a directory. 
 // It uses the POSIX API to read the directory entries and prints the names of the files and 
-// subdirectories found in the specified path. The program defines a function `list_directory` that takes a string representing the path to the directory, 
-// opens it, and iterates through its contents while skipping the current (`.`) and parent (`..`) directory entries. The main function calls `list_directory` 
+// subdirectories found in the specified path. The program defines a function `list_directory` that 
+// takes a string representing the path to the directory, opens it, and iterates through its contents 
+// while skipping the current (`.`) and parent (`..`) directory entries. The main function calls `list_directory` 
 // with the current directory (`"."`) as an argument, which means it will list the contents of the directory where the program is executed.
 
 //Header files included in the code:
