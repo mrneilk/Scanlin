@@ -19,7 +19,8 @@ SRS [Check out the documentation](SRS.md)
 
 Process Flow
 --
-![Process FLow](mermaid-drwaing.png)
+
+(mermaid-drwaing.png)
 
 How to use/Install
 --
