@@ -14,6 +14,9 @@ Tools and Resources
 --
 Draw.io - for flow representation 
 
+SRS [Check out the documentation](srs.md)
+--
+
 How to use/Install
 --
 Creating .deb type file for apt installation - check process
