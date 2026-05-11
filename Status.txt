@@ -18,7 +18,7 @@ Current Implementation Status
 - Advanced filtering and file classification - This is a future scope, next release
 - Recursive directory traversal - This is a future scope, next release
 - File metadata display (size, permissions, timestamps) - This is a future scope, next release
-- SRS and Flow Diagram documentation
-- Use Case documentation
+- SRS and Flow Diagram documentation - Draft is ready to be updated
+- Use Case documentation 
 - Test Document
 - End user documentation
