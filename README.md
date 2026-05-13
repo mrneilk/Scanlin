@@ -13,6 +13,8 @@ What will be added: SRS, Flow Diagram, Use Case, Test Document, End user Documen
 Tools and Resources
 --
 Draw.io - for flow representation 
+VS Code
+Gemini
 
 SRS [Check out the documentation](SRS.md)
 --
