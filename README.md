@@ -8,9 +8,9 @@ Tools and Resources
 --
 Draw.io - for flow representation
 
-VS Code
+VS Code - Coding and Debugging, Testing
 
-Gemini
+Gemini - AI Assitant
 
 SRS [Check out the documentation](SRS.md)
 --
