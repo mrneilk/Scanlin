@@ -6,8 +6,10 @@ This Project will illustrate, use of a basic directory scanner functionality cre
 
 Tools and Resources
 --
-Draw.io - for flow representation 
+Draw.io - for flow representation
+
 VS Code
+
 Gemini
 
 SRS [Check out the documentation](SRS.md)
