@@ -43,6 +43,7 @@ void list_directory(const std::string& path) {
 // The main function serves as the entry point of the program. It calls the `list_directory` function with the current directory (".") as an argument,
 // which will list the contents of the directory where the program is executed.
 int main() {
+    // call to function
     list_directory(".");
     return 0;
 }
