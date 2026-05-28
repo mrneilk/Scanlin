@@ -24,9 +24,9 @@ Process Flow
 How to use/Install
 --
 
-For Starters, download or copy the code, create a file in Linux OS, Make sure to add g++ complier. Then compile the file and run
+1. For Starters, download or copy the code, create a file in Linux OS, Make sure to add g++ complier. Then compile the file and run
 
-Creating .deb type file for apt installation - check process
+2. Creating .deb type file for apt installation - work in progress
 
 License and Project Use:
 --
