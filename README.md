@@ -14,7 +14,6 @@ Gemini - AI Assitant
 
 SRS [Check out the documentation](SRS.md)
 --
-Update in another readme file
 
 Process Flow
 --
