@@ -30,3 +30,5 @@ How to use/Install
 License and Project Use:
 --
 GNU GENERAL PUBLIC LICENSE v3
+
+Project can be used as per license
