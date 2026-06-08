@@ -1,4 +1,4 @@
-graph TD
+Flow for Scanlin directory scanner
 
     A([Start Scanner]) --> B[Open Directory Path]
     B --> C{Success?}
