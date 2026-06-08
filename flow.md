@@ -1,4 +1,5 @@
 graph TD
+
     A([Start Scanner]) --> B[Open Directory Path]
     B --> C{Success?}
     
