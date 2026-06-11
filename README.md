@@ -1,7 +1,7 @@
 Linux Directory Scanner
 --
 
-This Project will illustrate, use of a basic directory scanner functionality created using C++.
+This Project will illustrate a basic directory scanner functionality created using C++.
 
 
 Tools and Resources
