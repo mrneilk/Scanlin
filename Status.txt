@@ -16,10 +16,13 @@ Needs Update = 11 June 2026
 - Header files: iostream, dirent.h, sys/stat.h, string, vector
 
 **Pending:**
-- Advanced filtering and file classification - This is a future scope, next release
-- Recursive directory traversal - This is a future scope, next release
-- File metadata display (size, permissions, timestamps) - This is a future scope, next release
+
 - SRS and Flow Diagram documentation - Draft publishec, Final version needs update
 - Use Case documentation - Might be all combined - below  all
 - Test Document
 - End user documentation
+
+Future release and scope - 
+- Advanced filtering and file classification - This is a future scope, next release
+- Recursive directory traversal - This is a future scope, next release
+- File metadata display (size, permissions, timestamps) - This is a future scope, next release
