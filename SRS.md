@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-The **Scanlin** is a simple C++ command-line utility engineered for high-speed filesystem traversal and metadata extraction. Unlike standard utilities, this project focuses on hardware-aware performance, memory efficiency, and robust error handling in complex Linux environments.
+**Scanlin** is a simple C++ command-line utility engineered for high-speed filesystem traversal and metadata extraction. Unlike standard utilities, this project focuses on hardware-aware performance, memory efficiency, and robust error handling in complex Linux environments.
 
 ## 2. Overall Description
 
