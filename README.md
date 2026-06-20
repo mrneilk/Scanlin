@@ -1,4 +1,4 @@
-Linux Directory Scanner
+Scanlin - Linux Directory Scanner
 --
 
 This Project will illustrate a basic directory scanner functionality created using C++.
