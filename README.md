@@ -8,11 +8,9 @@ Outputs all the subdirectories and file in a directory.
 
 Tools and Resources
 --
-Draw.io - for flow representation
-
 VS Code - Coding and Debugging, Testing
-
 Gemini - AI Assitant
+Draw.io - for flow representation
 
 SRS [Check out the documentation](SRS.md)
 --
