@@ -28,6 +28,4 @@ download or copy the code, create a file in Linux OS, Make sure to add g++ compl
 
 License and Project Use:
 --
-GNU GENERAL PUBLIC LICENSE v3
-
-Project can be used as per license
+GNU GENERAL PUBLIC LICENSE v3 - Project can be used as per license description.
