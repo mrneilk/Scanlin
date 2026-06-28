@@ -1,7 +1,7 @@
 Scanlin - Linux Directory Scanner
 --
 
-This Project will illustrate a basic directory scanner functionality created using C++.
+This Project will illustrate a basic linux directory scanner functionality created using C++.
 
 Outputs all the subdirectories and file in a directory.
 
