@@ -20,7 +20,7 @@ Process Flow
 
 <img src="mermaid-drawing.png" alt="Process Flow" width="300" height="600">
 
-How to use
+How to Use
 --
 
 download or copy the code, create a file in Linux OS, Make sure to add g++ complier. Then compile the file and run
