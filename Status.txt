@@ -2,7 +2,7 @@ Status Update
 
 Current Implementation Status
 --
-Needs Update = 24 June 2026
+Update: 30 June 2026
 
 **Completed:**
 - Basic directory scanning functionality using POSIX API
@@ -15,14 +15,11 @@ Needs Update = 24 June 2026
 - Error handling for failed directory opening
 - Header files: iostream, dirent.h, sys/stat.h, string, vector
 
-**Pending:**
-
-- SRS and Flow Diagram documentation - Draft published, Final version needs update
-- Use Case documentation - Might be all combined - below  all
-- Test Document
-- End user documentation
 
 Future release and scope - 
 - Advanced filtering and file classification - This is a future scope, next release
 - Recursive directory traversal - This is a future scope, next release
 - File metadata display (size, permissions, timestamps) - This is a future scope, next release
+- Use Case documentation - Might be all combined - below  all
+- Test Document
+- End user documentation
